@@ -4,6 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Avvio del programma main!");
+		System.out.println("Esecuzione programma!");
+		System.out.println("Fase 2 del programma");
+		System.out.println("Fine del programma!");
 
 	}
 
